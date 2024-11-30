@@ -1,0 +1,51 @@
+.title-lg {
+    font: var(--title-lg);
+}
+
+.title-md {
+    font: var(--title-md);
+}
+
+.title-sm {
+    font: var(--title-sm);
+}
+
+.text-subtitle {
+    font: var(--subtitle);
+}
+
+.text-md {
+    font: var(--text-md);
+}
+
+.text-sm {
+    font: var(--text-sm);
+}
+
+.red {
+    color: var(--main-color-red);
+}
+
+.purple {
+    color: var(--main-color-purple);
+}
+
+.gray-200 {
+    color: var(--base-color-gray-200);
+}
+
+.gray-300 {
+    color: var(--base-color-gray-300);
+}
+
+.gray-400 {
+    color: var(--base-color-gray-400);
+}
+
+.gray-500 {
+    color: var(--base-color-gray-500);
+}
+
+.gray-600 {
+    color: var(--base-color-gray-600);
+}
